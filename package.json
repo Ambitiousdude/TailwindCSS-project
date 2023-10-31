@@ -1,0 +1,15 @@
+{
+  "name": "tailwindcss-project",
+  "version": "1.0.0",
+  "description": "1. 📖 Project Overview\r     2. 🛠️ Technologies used\r     3. 👤 Contact Information",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "tailwindcss": "^3.3.5"
+  }
+}
